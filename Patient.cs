@@ -10,6 +10,7 @@ namespace Sample
     {
         public Patient() {
             Console.WriteLine("Welcome patient!!");
+            Console.WriteLine("Hello Arpan.");
         }
     }
 }
